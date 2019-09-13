@@ -1,0 +1,18 @@
+{
+  "name": "atom-auto-hide-files",
+  "main": "./lib/atom-auto-hide-files",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-auto-hide-files:toggle"
+  },
+  "repository": "https://github.com/atom/atom-auto-hide-files",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
