@@ -3,7 +3,16 @@
   "main": "./lib/auto-hide-files",
   "version": "0.1.0",
   "description": "Automatically hides specified files and folders in the project tree",
-  "keywords": [],
+  "keywords": [
+    "Automation",
+    "File",
+    "Folder",
+    "Treeview",
+    "Tree View",
+    "Organisation",
+    "Auto Hide Files",
+    "JackTheFoxOtter"
+  ],
   "repository": "https://github.com/JackTheFoxOtter/atom-auto-hide-files",
   "license": "MIT",
   "engines": {
