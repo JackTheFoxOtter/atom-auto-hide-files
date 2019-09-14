@@ -1,7 +1,7 @@
 {
   "name": "auto-hide-files",
   "main": "./lib/auto-hide-files",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatically hides specified files and folders in the project tree",
   "keywords": [
     "Automation",
