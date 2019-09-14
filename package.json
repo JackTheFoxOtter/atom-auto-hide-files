@@ -5,7 +5,7 @@
   "description": "Automatically hides specified files and folders in the project tree",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/atom-auto-hide-files",
+  "repository": "https://github.com/JackTheFoxOtter/atom-auto-hide-files",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
